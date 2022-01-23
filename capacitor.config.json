@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AgendaApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
